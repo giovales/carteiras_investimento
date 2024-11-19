@@ -24,9 +24,9 @@ The selected stocks represent different sectors to create a diversified portfoli
 
 ## Tools Used
 
-Language: Python
-Libraries: Pandas, Matplotlib, NumPy, among others.
-Environment: Jupyter Notebook
+1. Language: Python
+2. Libraries: Pandas, Matplotlib, NumPy, among others.
+3. Environment: Jupyter Notebook
 
 ## How to Reproduce the Analysis
 
@@ -73,9 +73,9 @@ As ações selecionadas representam diferentes setores para compor uma carteira 
 
 ## Ferramentas Utilizadas
 
-Linguagem: Python
-Bibliotecas: Pandas, Matplotlib, NumPy, entre outras.
-Ambiente: Jupyter Notebook
+1. Linguagem: Python
+2. Bibliotecas: Pandas, Matplotlib, NumPy, entre outras.
+3. Ambiente: Jupyter Notebook
 
 ## Como Reproduzir a Análise 
 
