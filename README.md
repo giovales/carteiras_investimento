@@ -10,11 +10,11 @@ The purpose of this analysis is to explore historical data of five B3 stocks, pe
 
 The selected stocks represent different sectors to create a diversified portfolio:
 
-PETR4: Petrobras (Energy/Oil)
-VALE3: Vale (Mining)
-ITUB4: Itaú Unibanco (Financial)
-ABEV3: Ambev (Consumer Goods)
-WEGE3: WEG (Industrial)
+- PETR4: Petrobras (Energy/Oil)
+- VALE3: Vale (Mining)
+- ITUB4: Itaú Unibanco (Financial)
+- ABEV3: Ambev (Consumer Goods)
+- WEGE3: WEG (Industrial)
 
 ## Methodology
 
