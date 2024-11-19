@@ -51,14 +51,6 @@ jupyter notebook analise.ipynb
 
 Bem-vindo ao repositório de Carteiras de Investimento. Este repositório contém uma análise financeira de ações da Bolsa de Valores de São Paulo (B3) como parte da Tarefa 2 da matéria Análise Estatística de Dados e Informações (AEDI) do Programa de Pós-Graduação em Computação Aplicada (PPCA) da Universidade de Brasília (UnB).
 
-## Conteúdo
-
-- [Objetivo](#Objetivo)
-- [Estratégias de Investimento](#estratégias-de-investimento)
-- [Análises de Carteiras](#análises-de-carteiras)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
-
 ## Objetivo
 
 O objetivo desta análise é explorar dados históricos de cinco ações da B3, realizar uma análise descritiva e temporal, e identificar insights sobre o comportamento de cada ativo e do índice que os compõe.
